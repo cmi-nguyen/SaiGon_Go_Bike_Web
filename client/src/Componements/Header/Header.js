@@ -55,11 +55,6 @@ function Header() {
           </Nav>
           <Nav>
             <NavItem>
-              <Input type="search" placeholder="Tìm Kiếm"></Input>
-            </NavItem>
-            <NavItem>
-              <Button color="info">Tìm Kiếm</Button>
-              {" "}
               <Button color="secondary">Đăng Nhập</Button>
             </NavItem>
           </Nav>
