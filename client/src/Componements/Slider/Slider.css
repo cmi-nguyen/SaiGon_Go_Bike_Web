@@ -2,12 +2,14 @@
   
     max-width: 1000px;
     margin: auto;
-    padding: 0px 10px 10px 10px;
+    padding: 10px;
+    padding-bottom: 10px;
+    
 
 }
 
 .slider {
-    color: black;
+    background-color: #6cc3d5;
 }
 
 h3 {
