@@ -4,7 +4,7 @@ import Footer from "../../Componements/Footer/Footer";
 function AboutUsPage() {
   return (
     <div>
-      <p>Booking Page</p>
+      <p>About US Page</p>
       <Footer />
     </div>
   );
